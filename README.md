@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Juan sebastian ospina losada</h1>
 <h3 align="center">proactive person, perseverant, and focused on teamwork, orientation towards continuous improvement and excellent interpersonal relations.</h3>
 
+- 🌱 I’m currently learning **Fullstack web development**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sebastian010323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sebastian010323" height="30" width="40" /></a>
